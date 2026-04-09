@@ -28,7 +28,7 @@ It helps businesses visualize customer retention trends, identify churn risks, a
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```bash
 churnlens/
@@ -108,12 +108,3 @@ Contributions are welcome.
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
----
-
-## 👨‍💻 Author
-
-Built by **Tu
